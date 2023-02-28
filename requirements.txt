@@ -1,0 +1,13 @@
+discord.py==2.0.1
+pynacl
+discord.py[voice]
+py-cord==2.3.1
+googletrans==3.1.0a0
+hijri-converter
+linereader
+bs4
+requests
+ffmpeg
+pytz
+lxml
+unidecode
